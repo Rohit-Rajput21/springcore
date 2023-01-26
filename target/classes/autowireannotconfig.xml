@@ -12,10 +12,10 @@
      <property name="street" value="Temp street"/>
      <property name="city" value="Indore"/>
  </bean>
- <!--   <bean class="org.autowirannot.Address" name="address1">
+    <bean class="org.autowirannot.Address" name="address1">
         <property name="street" value="Second street"/>
         <property name="city" value="Delhi"/>
-    </bean> -->
+    </bean>
 
       <!-- +++++++++++++  byName Mode ++++++++++++++++++++++
     <bean class="org.autowiring.Emp" name="emp1" autowire="byName"/> -->
